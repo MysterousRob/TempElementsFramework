@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO; // Needed for File.Move and Directory.Move
+using System.IO; 
 using TempElementsLib.Interfaces;
 using TempElementsLib.Models;
 
